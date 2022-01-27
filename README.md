@@ -10,7 +10,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 | Nombre                                  | Actividad Laboral/Academica                                          |
 | -----------------------------------     |:--------------------------------------------------------------------:|
-| _Jesús Armando López García_            | Instructor/Google DSC Lead /Data Intelligence Manager                |
+| _Roxana Sanchez Servin de la mora_            | Ingeniera en Ciencias Ambientales  | NGO Volunteer | Learning to code               |
 
 
 ## Aliados
@@ -20,12 +20,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 ## Asistentes y tres cosas que te gusten
 
-* Jesús López 
-- Me gusta programar en python 🐍
-- Salir a correr 💻
+* Roxana Sanchez
+- Me gusta leer 🐍
+- Ir a natacion 💻
 - Ver series 👌
 
-* Juan Perez
-- El cine
-- Leer
-- Salir a correr
+
