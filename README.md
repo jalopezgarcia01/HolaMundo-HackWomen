@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Karen Contreras
+- Ver series/anime/manga (๑•̀ㅂ•́)و✧
+- Leer (ง •_•)ง
+- Jugar videojuegos (°ロ°)
