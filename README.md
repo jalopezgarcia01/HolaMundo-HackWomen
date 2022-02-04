@@ -29,3 +29,10 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+* Olinka Solórzano
+Me gusta:
+- Tecnología digital
+- Ver series
+- Los michis
+- Me gusta aprender cosas nuevas
+
