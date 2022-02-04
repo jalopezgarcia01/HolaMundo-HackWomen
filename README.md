@@ -29,3 +29,10 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Ivonne Alvarado
+- Me gusta leer 📕
+- Me gustan las series 📺
+- Me gusta el cine 🎞
+
+
