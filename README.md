@@ -20,12 +20,12 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 ## Asistentes y tres cosas que te gusten
 
-* Jesús López 
-- Me gusta programar en python 🐍
-- Salir a correr 💻
-- Ver series 👌
+* Ariadna Ivette Flores López
+- Me gusta hacer postres
+- Amo pasar tiempo con mis seres queridos
+- Me encanta ver películas o series con las personas que amo mientras comemos golosinas
 
-* Juan Perez
-- El cine
-- Leer
-- Salir a correr
+* Ariadna Ivette Flores López
+- Comprar ropa
+- Dormir
+- Salir a pasear
