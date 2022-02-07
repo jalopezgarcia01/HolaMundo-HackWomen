@@ -21,11 +21,27 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 ## Asistentes y tres cosas que te gusten
 
 * Jesús López 
+
 - Me gusta programar en python 🐍
 - Salir a correr 💻
 - Ver series 👌
 
 * Juan Perez
+
 - El cine
 - Leer
 - Salir a correr
+
+* Naomi Rosas
+
+- Me gusta dormir 😴
+- Me gustan los animalitos 🥰
+- Soy fan de la comida ❣🍕🍽
+
+### Se pueden observar perfiles distintos
+
+> Ahora un anti-estrés:
+
+![Vaquita](img/vaquita.jpeg)
+
+¡Buen día! 💕
