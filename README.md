@@ -30,7 +30,14 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Leer
 - Salir a correr
 
-# Naomi Rosas
+* Naomi Rosas
 - Me gusta dormir 😴
 - Me gustan los animalitos 🥰
 - Soy fan de la comida ❣🍕🍽
+
+Perfiles distintos 
+> Ahora un anti-estrés:
+
+![Vaquita](img/vaquita.jpeg)
+
+¡Buen día! 💕
