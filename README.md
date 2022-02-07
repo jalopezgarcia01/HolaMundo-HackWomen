@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+# Naomi Rosas
+- Me gusta dormir 😴
+- Me gustan los animalitos 🥰
+- Soy fan de la comida ❣🍕🍽
