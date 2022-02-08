@@ -26,6 +26,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Ver series 👌
 
 * Aline Reyes 
--Me gusta leer manga📖
--Hago poco ejercicio💔
--Me gustan los X-files👽
+- Me gusta leer manga📖
+- Hago poco ejercicio💔
+- Me gustan los X-files👽
