@@ -25,7 +25,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr 💻
 - Ver series 👌
 
-* Juan Perez
-- El cine
+* Sonia Navarro
+- Nadar
 - Leer
-- Salir a correr
+- Hacer matemáticas
