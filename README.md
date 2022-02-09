@@ -29,10 +29,12 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
-- 
-- ##*Diana Gonzalez*
--Me gusta pintar. 🙌
--Amo aprender y superar mis miedos.
--Me encanta este curso.😍
--Hago ejercicio. 🐱‍👤
+
+## Mis gustos
+
+* Diana Gonzalez
+- Me gusta pintar. 🙌
+- Amo aprender y superar mis miedos.
+- Me encanta este curso.😍
+- Hago ejercicio. 🐱‍👤
 
