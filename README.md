@@ -29,3 +29,4 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+- colaboracion de Claudia Sanchez, que vivan los gatitos y la responsabilidad afectiva
