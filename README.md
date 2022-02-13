@@ -31,7 +31,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 * Julia Aguilar 
--Escuchar musica ♫
--Ver peliculas ✿
--Aprender cosas nuevas ♥
+- Escuchar musica ♫
+- Ver peliculas ✿
+- Aprender cosas nuevas ♥
 
