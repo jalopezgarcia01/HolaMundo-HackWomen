@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Pam Durán
+- Me gusta la investigación 👩🏻‍🔬
+- Perritus 🐶
+- Poesía 🥰
