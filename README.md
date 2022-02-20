@@ -20,13 +20,20 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 ## Asistentes y tres cosas que te gusten
 
-* Jesús López 
+* Jesús López (Instructor👨‍🏫 )
 - Me gusta programar en python 🐍
 - Salir a correr 💻
 - Ver series 👌
-- Leer 📚
+- Leer 📚 (Modificación de ejemplo)
 
 * Juan Perez
 - El cine
 - Leer
 - Salir a correr
+
+* ACTIVIDAD SOLICITADA 🤔
+
+* Minerva Martínez
+- Leer 📚
+- Jugar con mis michis 🐈🐈🐈
+- Artes marciales 🥋 🥊
