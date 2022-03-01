@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Elena Ramirez   Hola a todos!!!
+ - Comer botana 🍿
+ - Ir al gym 🏋️‍♂️🏋️‍♂
+ - Pasear con mi hijo 👩‍👦
