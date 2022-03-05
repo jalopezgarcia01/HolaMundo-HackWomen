@@ -25,7 +25,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr 💻
 - Ver series 👌
 
-* Juan Perez
-- El cine
+* Yazmín González
+- Me gusta invertir tiempo en aprender Ciencia de Datos
 - Leer
-- Salir a correr
+- Yoga
