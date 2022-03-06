@@ -24,8 +24,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python 🐍
 - Salir a correr 💻
 - Ver series 👌
-
-* Juan Perez
-- El cine
+* Guillermina castillo
+- Bailar
 - Leer
-- Salir a correr
+- Salir a caminar
