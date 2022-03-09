@@ -28,4 +28,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 * Juan Perez
 - El cine
 - Leer
-- Salir a correr
+- Salir a corr
+*Leydi Monserrat Jiménez Pineda
+- Este es mi primer pullrequest
+- M e gusta  mucho bailar
+- Nado desde los 5 años
+- Espero algun día ser buene programadora
