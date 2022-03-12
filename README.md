@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Mariana Marisol Ríos Martínez
+- Me gusta aprender idiomas 👩🏻‍🏫
+- Me gusta buscar nueva música 💿
+- Me gustan los deportes extremos 🛼
