@@ -32,5 +32,3 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 * Yudi Calan Chan
 -Escuchar musica
--Ver videos
--Dormir
