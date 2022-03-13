@@ -26,6 +26,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Ver series 👌
 
 * Juan Perez
-- El cine
-- Leer
-- Salir a correr
+- El cine 
+- Leer 
+- Salir a correr 
