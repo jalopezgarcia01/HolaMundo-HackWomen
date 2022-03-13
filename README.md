@@ -31,4 +31,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 * Yudi Calan Chan
--Escuchar musica
+* -Escuchar musica
+* -Ver videos
+* -Dormir
