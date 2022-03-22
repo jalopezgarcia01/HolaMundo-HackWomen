@@ -30,7 +30,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Leer
 - Salir a correr
 
-* Hola Jesú, mi nombre es Dalid Rito.
+* Hola Jesú, mi nombre es Dalid Rito
 - Me gusta andar en bici 🚴‍♀️
 - Leer 👩‍💻
 - Comer 🌮☕
