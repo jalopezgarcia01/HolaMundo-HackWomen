@@ -25,7 +25,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr 💻
 - Ver series 👌
 
-* Juan Perez
-- El cine
-- Leer
-- Salir a correr
+* **Damaris Salgado Ayala**
+- Me gusta escuchar música de distintos generos (excepto electrónica, reguetton), mi playlist tiene canciones que me gustan y recuerdan a alguien  :loud_sound:
+- Ver series de ciencia ficción y algunos doramas coreanos :see_no_evil:
+- Comer empanadas de camarón al estilo chilango, porque en donde vivo no las preparan así :bento:
