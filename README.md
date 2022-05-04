@@ -18,7 +18,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 ![Aliados](img/britishcouncil.png)
 
 
-## Asistentes y tres cosas que te gusten
+## Asistentes y tres cosas que te gusten:
 
 * Jesús López 
 - Me gusta programar en python 🐍
@@ -29,3 +29,10 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Elizabeth Flores Garduño 👧
+- Me gustan los gatos 🐈‍
+- Me gusta practicar 🐼 Calistenia y Yoga 
+- Me gusta la lluvia 🌱 🐛 y las galletas 🍪
+
+
