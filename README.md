@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+## Marianne: aportación al documento
+-Me gusta el surf, lo práctico cada fin
+-Estan super cool los videos y las prácticas de este programa
+-Leo mucho y me estoy capacitando!
