@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+Imelda Viridiana García Cano
+-coser
+-ejercicio
+-ver series y peliculas
