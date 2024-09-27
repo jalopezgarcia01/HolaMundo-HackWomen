@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+- 
+- Claudia Sanchez, ciudad de mexico poniendome al corriente con los ejercicios,
+- que vivan los gatitos
+- los videojuegos
+- la playa
